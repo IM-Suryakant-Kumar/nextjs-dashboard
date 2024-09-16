@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 		default: "Acme Dashboard",
 	},
 	description: "The official next.js course dashboard, built with App Router.",
-	metadataBase: new URL("https://next-learn-dashboard.vercel.sh"),
+	metadataBase: new URL("https://nextjs-dashboard-xi-one-29.vercel.app"),
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
